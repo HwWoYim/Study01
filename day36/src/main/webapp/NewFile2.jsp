@@ -22,8 +22,8 @@
 			<option>-</option>
 			<option>x</option>
 			<option>/</option>
-		</select> <input type="text" name="num2"> <input type="submit"
-			value="계산 결과보기">
+		</select> <input type="text" name="num2"> 
+		<input type="submit" value="계산 결과보기">
 	</form>
 	<hr>
 	<h2>
